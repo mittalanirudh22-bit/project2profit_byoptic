@@ -1,0 +1,6 @@
+{
+    "ai": ["ai", "machine learning", "prediction"],
+    "web": ["web", "website", "app"],
+    "finance": ["stock", "trading", "crypto"],
+    "health": ["fitness", "health"]
+}
