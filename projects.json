@@ -32,5 +32,46 @@
         "monetization": [
             "Sell as Digital Product"
         ]
+    },
+    {
+        "description": "recommendation model\n",
+        "tags": [],
+        "score": 0,
+        "monetization": [
+            "Sell as Digital Product"
+        ]
+    },
+    {
+        "description": "movie recommendation model\n",
+        "tags": [],
+        "score": 0,
+        "monetization": [
+            "Sell as Digital Product"
+        ]
+    },
+    {
+        "description": "movie recommendation system",
+        "tags": [
+            "recommendation"
+        ],
+        "score": 0,
+        "monetization": [
+            "Sell as Digital Product"
+        ]
+    },
+    {
+        "description": "ai stock portfolio",
+        "tags": [
+            "ai",
+            "finance"
+        ],
+        "score": 7,
+        "monetization": [
+            "SaaS Subscription",
+            "Premium Analytics Tool"
+        ]
     }
+    
+    
+   
 ]

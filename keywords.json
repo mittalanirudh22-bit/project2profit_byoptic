@@ -1,6 +1,65 @@
 {
-    "ai": ["ai", "machine learning", "prediction"],
-    "web": ["web", "website", "app"],
-    "finance": ["stock", "trading", "crypto"],
-    "health": ["fitness", "health"]
+    "ai": ["ai", "artificial intelligence", "machine learning", "deep learning", "neural network"],
+    
+    "recommendation": ["recommendation system", "recommender", "collaborative filtering", "content-based filtering"],
+    
+    "nlp": ["nlp", "text processing", "chatbot", "sentiment analysis", "language model"],
+    
+    "computer_vision": ["image recognition", "object detection", "opencv", "vision"],
+    
+    "data_science": ["data analysis", "data science", "pandas", "numpy"],
+    
+    "big_data": ["big data", "hadoop", "spark"],
+    
+    "web": ["web", "website", "web app", "frontend", "backend"],
+    
+    "mobile": ["android", "ios", "mobile app", "flutter", "react native"],
+    
+    "finance": ["finance", "trading", "stock", "crypto", "investment"],
+    
+    "fintech": ["fintech", "payment system", "digital wallet", "upi"],
+    
+    "blockchain": ["blockchain", "web3", "smart contract", "ethereum"],
+    
+    "cybersecurity": ["security", "cybersecurity", "encryption", "authentication"],
+    
+    "cloud": ["cloud", "aws", "azure", "gcp"],
+    
+    "devops": ["devops", "docker", "kubernetes", "ci/cd"],
+    
+    "iot": ["iot", "internet of things", "sensor", "embedded"],
+    
+    "robotics": ["robotics", "automation", "robot"],
+    
+    "health": ["health", "fitness", "medical", "healthcare"],
+    
+    "edtech": ["education", "learning", "edtech", "online course"],
+    
+    "gaming": ["game", "gaming", "unity", "unreal"],
+    
+    "ar_vr": ["ar", "vr", "augmented reality", "virtual reality"],
+    
+    "social": ["social media", "chat app", "messaging"],
+    
+    "ecommerce": ["ecommerce", "shopping", "cart", "product"],
+    
+    "saas": ["saas", "subscription", "platform"],
+    
+    "automation": ["automation", "bot", "script"],
+    
+    "analytics": ["analytics", "dashboard", "visualization"],
+    
+    "search_engine": ["search engine", "ranking", "information retrieval"],
+    
+    "productivity": ["productivity", "task manager", "notes"],
+    
+    "transport": ["transport", "logistics", "delivery"],
+    
+    "agriculture": ["agriculture", "farming", "crop"],
+    
+    "energy": ["energy", "solar", "renewable"],
+    
+    "legal": ["legal", "law", "compliance"],
+    
+    "hrtech": ["hr", "recruitment", "hiring"]
 }

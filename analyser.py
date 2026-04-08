@@ -13,6 +13,6 @@ def analyze_project(description):
                 tags.append(category)
                 break
 
-    complexity = "High" if len(tags) > 3 else "Medium" if len(tags) > 1 else "Low"
+    complexity = "High" if len(tags) > 5 else "Medium" if len(tags) > 4 else "Low"
 
     return {"tags": tags, "complexity": complexity}
